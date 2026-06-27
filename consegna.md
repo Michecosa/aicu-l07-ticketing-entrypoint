@@ -29,19 +29,19 @@ Come visto in aula: una proposta AI non e' una prova. Prima leggi il repo, poi d
 Lavora nel tuo fork della repo:
 
 ```txt
-aicu-m02-l07-ticketing-entrypoint
+aicu-l07-ticketing-entrypoint
 ```
 
 Prima di iniziare, importa solo questi artefatti:
 
 ```txt
-aicu-m02-l05-ticketing-issue/output/issue-create-ticket.md
+aicu-l05-ticketing-issue/output/issue-create-ticket.md
   -> lavoro-precedente/issue-create-ticket.md
 
-aicu-m02-l06-ticketing-contract/output/contract-sketch-create-ticket.md
+aicu-l06-ticketing-contract/output/contract-sketch-create-ticket.md
   -> lavoro-precedente/contract-sketch-create-ticket.md
 
-aicu-m02-l06-ticketing-contract/output/data-sketch-create-ticket.md
+aicu-l06-ticketing-contract/output/data-sketch-create-ticket.md
   -> lavoro-precedente/data-sketch-create-ticket.md
 ```
 
